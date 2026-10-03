@@ -1,5 +1,7 @@
 # Karakter Frekans Analiz Aracı
 
+[![Architecture diagram of eraycancoban/charactercounter](https://gitdiagram.com/eraycancoban/charactercounter/diagram.png)](https://gitdiagram.com/eraycancoban/charactercounter?utm_source=readme&utm_medium=picture)
+
 Java Swing altyapısıyla geliştirilmiş, metinler üzerinde gerçek zamanlı frekans analizi, sınır kontrolü ve tema özelleştirmesi sunan modern masaüstü uygulaması.
 
 ---
