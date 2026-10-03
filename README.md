@@ -1,7 +1,7 @@
 # Karakter Frekans Analiz Aracı
 
 Metinler üzerinde detaylı karakter sıklığı analizi yapabilen, dinamik limit kontrolü ve duyarlı (responsive) modern Swing arayüzü sunan masaüstü Java uygulaması.
-
+https://github.com/eraycancoban/CharacterCounter/releases/tag/v1 adresinden zip dosyasını indirip çalıştırabilirsiniz.
 ---
 
 ## Genel Bakış
