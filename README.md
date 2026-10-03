@@ -55,8 +55,9 @@ src/
 ### 1. Hazır `.exe` Olarak Çalıştırma (Tavsiye Edilen)
 Sisteminizde Java veya JDK kurulu olması gerekmez:
 1. **Releases** sekmesinden `KarakterAnalizAraci-v1.0.0-windows.zip` arşivini indirin.
-2. ZIP dosyasını dilediğiniz bir klasöre çıkartın.
-3. Klasör içindeki `KarakterAnalizAraci.exe` dosyasına çift tıklayarak uygulamayı başlatın.
+   https://github.com/eraycancoban/CharacterCounter/releases/tag/v1
+3. ZIP dosyasını dilediğiniz bir klasöre çıkartın.
+4. Klasör içindeki `KarakterAnalizAraci.exe` dosyasına çift tıklayarak uygulamayı başlatın.
 
 ### 2. Kaynak Koddan Çalıştırma
 * **Gereksinimler:** JDK 21+ (veya OpenJDK 25)
